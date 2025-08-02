@@ -1,11 +1,17 @@
 # 🌟 Community Platform - LinkedIn-like Social Network
 
+Run Commands:- 
+Frontend: npm run dev
+Backend: npm run dev
+
+live demo video url :- https://www.loom.com/share/5cf863f8e33f4623850bee247796adb4?sid=314a084b-5448-4de3-bc28-fa0190f355c5
+
 A modern, professional social networking platform built for the Full Stack Development Internship challenge at CIAAN Cyber Tech Pvt Ltd. This application provides a complete social media experience with user authentication, post creation, profile management, and user discovery features.
 
 ## 🚀 Live Demo
 
-- **Frontend**: [Your Deployed Frontend URL]
-- **Backend API**: [Your Deployed Backend URL]
+- **Frontend**: [[Your Deployed Frontend URL]](https://mini-linkedin-frontend.vercel.app/login)
+- **Backend API**: Getting trouble with type script
 
 ## 📋 Table of Contents
 
