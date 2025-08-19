@@ -4,7 +4,6 @@ Run Commands:-
 Frontend: npm run dev
 Backend: npm run dev
 
-live demo video url :- https://www.loom.com/share/eaf49fb1ac9f4fbd9372bc1dcd163ef7?sid=ddd23f77-43d7-4560-bdfd-613ce31aac50
 
 A modern, professional social networking platform built for the Full Stack Development Internship challenge at CIAAN Cyber Tech Pvt Ltd. This application provides a complete social media experience with user authentication, post creation, profile management, and user discovery features.
 
